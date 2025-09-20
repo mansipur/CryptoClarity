@@ -30,24 +30,24 @@ const Hero = () => {
                 Start Trading
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button variant="outline" size="lg" className="border-gray-700 text-white hover:bg-white/5 py-6">
+              <Button variant="outline" size="lg" className="border-gray-700 hover:bg-white/5 py-6">
                 View Demo
                 <ArrowUpRight className="ml-2 h-5 w-5" />
               </Button>
             </div>
             <div className="mt-8 flex items-center space-x-6">
               <div>
-                <p className="text-2xl font-bold text-white">$2.5B+</p>
+                <p className="text-2xl font-bold text-white">$9.8B+</p>
                 <p className="text-sm text-gray-400">Trading Volume</p>
               </div>
               <div className="h-12 w-px bg-gray-700"></div>
               <div>
-                <p className="text-2xl font-bold text-white">120K+</p>
+                <p className="text-2xl font-bold text-white">350K+</p>
                 <p className="text-sm text-gray-400">Active Traders</p>
               </div>
               <div className="h-12 w-px bg-gray-700"></div>
               <div>
-                <p className="text-2xl font-bold text-white">50+</p>
+                <p className="text-2xl font-bold text-white">100+</p>
                 <p className="text-sm text-gray-400">Global Markets</p>
               </div>
             </div>
